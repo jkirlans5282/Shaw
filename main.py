@@ -1,4 +1,5 @@
 inputString = input("Enter a string: ")
+inputString=inputString.lower()
 dictionarySpecial={'ch':'\U00010457','dg':'\U00010461','sh':'\U00010456','ou':'\U0001046C'}
 dictionary = {'a':'\U00010468','b':'\U0001045A','c':'\U00010454',
 			  'd':'\U0001045B','e':'\U00010467','f':'\U00010453',
